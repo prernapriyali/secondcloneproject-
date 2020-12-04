@@ -70,7 +70,7 @@
         <!--------------------------News Wrapper section starts------------------->
 
 
-        <section class="news">
+        <section class="news updates">
             <div class="wrapper">
                 <h2>Latest news ></h2>
             <div>
@@ -230,50 +230,50 @@
     <!-----------------------deal section starts----------------------->
     <section class="deals">
         <div class="wrapper">
-        <div class="title">
-            <a class="latest" href="#"><h2>Latest deals ></h2></a>
-            <a class="all" href="#">See all Deals</a>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.1.png" alt="image"></a>
-            <a class="product" href="#">The Official Cyber Monday Mac Bundle Ft. Parallels Pro & Luminar4</a>
-            <p><span>$1266</span> $69.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.2.png" alt="image"></a>
-            <a class="product" href="#">StackSkill Unlimited: Lifetime Access</a>
-            <p><span>$1495</span> $59</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.3.png" alt="image"></a>
-            <a class="product" href="#">The Complete web Developer coding Bundle</a>
-            <p><span>$2786</span> $39.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.4.png" alt="image"></a>
-            <a class="product" href="#">The Ultimate Financial Accounting & CPA Certification Training Bundle</a>
-            <p><span>$49</span> $19.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.5.png" alt="image"></a>
-            <a class="product" href="#">The ultimate Python & Artificial intelligence Certification Bundle</a>
-            <p><span>$1791</span> $39.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.6.png" alt="image"></a>
-            <a class="product" href="#">The Complete Python Certification Bootcamp Bundle</a>
-            <p><span>$2030</span> $34.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.7.png" alt="image"></a>
-            <a class="product" href="#">Hushed Private Phone Line Lifetime Subscription</a>
-            <p><span>$150</span> $19.99</p>
-        </div>
-        <div class="deal">
-            <a href="#"><img src="images/pic2.8.png" alt="image"></a>
-            <a class="product" href="#">The Premium Learn to Code 2021 Certification Bundle</a>
-            <p><span>$4056</span> $59.99</p>
-        </div>
+          <!---div class="title">
+                <a class="latest" href="#"><h2>Latest deals ></h2></a>
+                <a class="all" href="#">See all Deals</a>
+            </div--->
+            <div class="deal">
+                <a href="#"><img src="images/changes31.png" alt="image"></a>
+                <a class="product" href="#">The Official Cyber Monday Mac Bundle Ft. Parallels Pro & Luminar4</a>
+                <p><span>$1266</span> $69.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.2.png" alt="image"></a>
+                <a class="product" href="#">StackSkill Unlimited: Lifetime Access</a>
+                <p><span>$1495</span> $59</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.3.png" alt="image"></a>
+                <a class="product" href="#">The Complete web Developer coding Bundle</a>
+                <p><span>$2786</span> $39.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.4.png" alt="image"></a>
+                <a class="product" href="#">The Ultimate Financial Accounting & CPA Certification Training Bundle</a>
+                <p><span>$49</span> $19.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.5.png" alt="image"></a>
+                <a class="product" href="#">The ultimate Python & Artificial intelligence Certification Bundle</a>
+                <p><span>$1791</span> $39.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.6.png" alt="image"></a>
+                <a class="product" href="#">The Complete Python Certification Bootcamp Bundle</a>
+                <p><span>$2030</span> $34.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.7.png" alt="image"></a>
+                <a class="product" href="#">Hushed Private Phone Line Lifetime Subscription</a>
+                <p><span>$150</span> $19.99</p>
+            </div>
+            <div class="deal">
+                <a href="#"><img src="images/pic2.8.png" alt="image"></a>
+                <a class="product" href="#">The Premium Learn to Code 2021 Certification Bundle</a>
+                <p><span>$4056</span> $59.99</p>
+            </div>
         </div>
     </section>
     <!--------------------------------social icon sections start--------------------------------->
