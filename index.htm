@@ -1,33 +1,35 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-  <style>
-    .flex-container {
-      display: flex;
-      flex-wrap: nowrap;
-      background-color: DodgerBlue;
-    }
-
-    .flex-container>div {
-      background-color: #f1f1f1;
-      width: 80%;
-      margin: 10px;
-      text-align: center;
-      line-height: 75px;
-      font-size: 30px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>TNW</title>
 </head>
-
-<body>
+ 
+  <body>
   <h1>Flexible Boxes</h1>
   <!----------------------header------------>
 
   <section>
     <div class="flex-container">
-      <div style="width: 50%;">1</div>
-      <div style="width: 50%;">2</div>
+      <div class="nav-left" id="nav-l" style="width: 50%;"><ul>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Events ▾</a></li>
+        <li><a href="#">Business ▾</a></li>
+        <li><a href="#">AMAs</a></li>
+        <li><a href="#">Spaces</a></li>
+        <li><a href="#">Terms & Conditions</a></li>
+    </ul>
+  </div>
+      <div class="nav-right" id= "nav-r" style="width: 50%;"><ul>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Advertise</a></li>
+        <li><a href="#">Jobs</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
     </div>
     <div class="flex-container">
       <div style="width: 50%;">3</div>
