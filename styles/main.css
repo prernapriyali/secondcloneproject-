@@ -12,8 +12,7 @@
   --orange-color: #e43500;
 }
 
-*
-::before,
+*::before,
 ::after {
   box-sizing: inherit;
 }
