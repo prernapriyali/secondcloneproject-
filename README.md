@@ -1,10 +1,11 @@
-This project is clone copy of TNw and it is made by using html and CSS. mediaqueries are mostly used in CSS for styling.
+# secondcloneproject-test
+This project is clone copy of TNW and it is made by using html and CSS..
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
 > One paragraph statement about the project.
-![](assets/images/screenshot.png)
+![](images/.sampleimg.png)
 
 Additional description about the project and its features.
 
@@ -50,8 +51,8 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com)
+(NA)
+- GitHub: [@githubhandle](https://github.com/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
